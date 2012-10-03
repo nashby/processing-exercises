@@ -1,7 +1,7 @@
 PImage img;
 
 void setup() {
-  size(1800, 1800);
+  size(1100, 450);
   img = loadImage("image.jpg");
 }
 
